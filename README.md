@@ -1,75 +1,173 @@
 <div align="center">
 
-# Hi there, I'm Parsa Fathi 👋
-### **Software Engineer | Applied AI & Computer Vision | System Architecture**
+# Parsa Fathi
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ParsaFathii)
+**Software Developer · Python · Desktop Applications · Computer Vision**
 
-<p align="center">
-  <b>Architecting reliable, full-lifecycle software solutions from edge to cloud.</b><br>
-  Focused on bridging <b>Computer Vision, Desktop Systems, and Modern Web Architectures</b>.
-</p>
+Building practical software for real-world engineering workflows.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 </div>
 
 ---
 
-### 🚀 Executive Summary
+## About Me
 
-I am a Software Developer with a pragmatic engineering mindset. I specialize in transforming complex real-world requirements into maintainable, scalable, and production-ready applications. 
+I'm a software developer focused on **Python-based applications, desktop development, and image/video processing**.
 
-My primary technical focus revolves around **high-performance desktop platforms (PySide/Qt, OpenCV)**, expanding into **modern full-stack web integration (Next.js, TypeScript)**, with a deep-seated interest in **Embedded Systems and Automotive Electronics (ECU/CAN Bus)**.
+I enjoy turning complex requirements into practical tools—connecting application interfaces, data processing, structured storage, and automated reporting into maintainable workflows.
 
----
-
-### 🌟 Featured Engineering Project
-
-<table>
-  <tr>
-    <td width="65%">
-      <h3>🏭 SPERLUS / VideoMetry</h3>
-      <p><i>An industrial-grade platform designed for video-based infrastructure and pipeline inspection.</i></p>
-      <p>SPERLUS bridges the gap between hardware video capture and enterprise data management. It streamlines the inspection workflow into a unified ecosystem—combining real-time video processing, automated reporting, and secure cloud synchronization.</p>
-      <ul>
-        <li><b>Video Processing:</b> Frame-accurate visual inspection and defect identification.</li>
-        <li><b>Automated Reporting:</b> Dynamic PDF generation pipeline via template engines.</li>
-        <li><b>Hybrid Architecture:</b> Robust offline-first desktop client integrated with a modern cloud web platform for centralized project audits and role-based access control (RBAC).</li>
-      </ul>
-      <p>
-        <b>Core Stack:</b> 
-        <code>Python</code> · <code>PySide6 (Qt6)</code> · <code>OpenCV</code> · <code>SQLite</code> · <code>Next.js</code> · <code>TypeScript</code> · <code>Prisma</code> · <code>TailwindCSS</code>
-      </p>
-    </td>
-    <td width="35%" align="center">
-      <img src="https://via.placeholder.com/400x260?text=SPERLUS+Inspection+Suite" alt="SPERLUS Preview" width="100%" />
-      <br>
-      <sub><i>Industrial Video Inspection Ecosystem</i></sub>
-    </td>
-  </tr>
-</table>
+My current work centers on **SPERLUS / VideoMetry**, a video-based inspection platform. Alongside this project, I'm strengthening my foundations in **software engineering, machine learning, modern web development, and embedded systems**.
 
 ---
 
-### 🛠️ Technical Arsenal
+## Featured Project
+
+### SPERLUS / VideoMetry
+
+**Video-based sewer inspection and infrastructure analysis.**
+
+SPERLUS began as a desktop application and is evolving into an integrated software platform for managing inspection footage, project data, and reporting workflows.
+
+The goal is to connect the inspection process—from collecting and reviewing video to organizing findings and producing useful reports.
+
+#### Core Capabilities
+
+- **Inspection workflows:** Video-based inspection and image/video processing.
+- **Project organization:** Management of projects, manholes, and inspection records.
+- **Reporting:** Automated PDF report generation.
+- **Data management:** Structured storage and organization of inspection data, media, and reports.
+- **Desktop interface:** A Qt-based interface for managing inspection and reporting tasks.
+
+#### Web Platform Development
+
+The web component extends the project toward:
+
+- Web-based access to projects and inspection information.
+- User accounts and role-based permissions.
+- Controlled access to project data, media, and reports.
+
+**Desktop stack:**  
+`Python` · `PySide6` · `Qt6` · `OpenCV` · `SQLite` · `QtMultimedia` · `QtWebEngine` · `Jinja2`
+
+**Web stack:**  
+`Next.js` · `TypeScript` · `Tailwind CSS` · `Prisma`
+
+---
+
+## Technology Stack
+
+**Python is my primary language.** The technologies below reflect my project work and ongoing learning.
+
+| Area | Technologies |
+| --- | --- |
+| Programming languages | Python, C, C++, TypeScript |
+| Desktop development | PySide6, Qt6, QtMultimedia, QtWebEngine |
+| Image and video processing | OpenCV |
+| Web development | Next.js, Tailwind CSS, HTML, CSS |
+| Data and reporting | SQLite, Prisma, Jinja2 |
+| Development tools | Git, GitHub, VS Code |
+
+---
+
+## Current Focus
+
+### AI & Computer Vision
+
+Building a stronger foundation in machine learning and neural networks, with a particular interest in practical applications such as:
+
+- Image and video analysis.
+- Defect detection.
+- Visual measurement.
+- Extracting useful information from inspection footage.
+
+### Software Engineering & Web Development
+
+Improving my understanding of:
+
+- Software architecture and system design.
+- Database design and structured data management.
+- Authentication, authorization, and access control.
+- Testing, reliability, and deployment.
+- Modern web application development.
+
+### Computer Science Fundamentals
+
+Strengthening my knowledge of algorithms, data structures, operating systems, computer architecture, discrete mathematics, and theory of computation.
+
+### Embedded & Automotive Systems
+
+Exploring the intersection of software and automotive electronics, including:
+
+- Embedded programming with C and C++.
+- CAN bus communication.
+- ECU and TCU systems.
+- Python-based automotive tools.
+- Inverters and control systems.
+
+---
+
+## Engineering Approach
+
+I aim to build software that is useful, understandable, and dependable—not just functional.
+
+My priorities include:
+
+- **Clear structure:** Well-defined responsibilities and readable code.
+- **Maintainability:** Designs that are easier to debug, extend, and improve.
+- **Reliability:** Careful data handling, testing, and predictable behavior.
+- **Security:** Thoughtful access control and security-conscious design.
+- **Usability:** Interfaces shaped around real workflows and user needs.
+
+**Understand → Design → Build → Test → Improve**
+
+Good software should solve the problem reliably and remain practical to maintain as requirements evolve.
+
+---
+
+## GitHub Activity
 
 <div align="center">
 
-| Domain | Technologies & Tools |
-| :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
-| **Desktop & Vision** | ![Qt](https://img.shields.io/badge/-PySide6%20%2F%20Qt6-41CD52?style=flat-square&logo=qt&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![Multimedia](https://img.shields.io/badge/-QtMultimedia-232F3E?style=flat-square) ![Jinja2](https://img.shields.io/badge/-Jinja2-B41717?style=flat-square&logo=jinja&logoColor=white) |
-| **Web & Cloud** | ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) |
-| **DevOps & Tools** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+<img
+  src="https://github-readme-stats.vercel.app/api?username=ParsaFathii&show_icons=true&theme=tokyonight&hide_border=true"
+  height="165"
+  alt="Parsa Fathi's GitHub statistics"
+/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParsaFathii&layout=compact&theme=tokyonight&hide_border=true"
+  height="165"
+  alt="Most used languages across public repositories"
+/>
+
+<br><br>
+
+<img
+  src="https://streak-stats.demolab.com/?user=ParsaFathii&theme=tokyonight&hide_border=true"
+  alt="Parsa Fathi's GitHub contribution streak"
+/>
 
 </div>
 
 ---
 
-### 🔬 Engineering Focus & R&D
+## Collaboration
 
-```text
-  [ Applied AI & Vision ] ───► Computer Vision Pipelines · Defect Detection · Visual Metric Analysis
-  [ System Architecture ] ───► Event-Driven Desktop Design · Modular Micro-frontends · Secure RBAC
-  [ Embedded & Automotive] ──► CAN Bus Communication · Low-Level Firmware (C/C++) · ECU Integration
+I'm open to technical discussions and collaboration around **Python applications, computer vision, inspection software, web development, and engineering-focused tools**.
+
+My long-term direction is to connect application development with intelligent software and lower-level systems—while continuing to learn through practical projects.
+
+[Explore my repositories](https://github.com/ParsaFathii?tab=repositories)
+
+---
+
+<div align="center">
+
+**Build with purpose. Learn continuously. Keep improving.**
+
+</div>
