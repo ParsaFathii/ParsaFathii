@@ -1,271 +1,75 @@
-# 👋 Hey, I'm Parsa Fathi
+<div align="center">
 
-### 💻 Software Developer · 🐍 Python · 🤖 AI · 👁️ Computer Vision
+# Hi there, I'm Parsa Fathi 👋
+### **Software Engineer | Applied AI & Computer Vision | System Architecture**
 
-> **I build software to solve real-world problems.**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ParsaFathii)
 
-I'm a Software Developer focused on building practical software systems, with a strong interest in **Python, Artificial Intelligence, Computer Vision, and system design**.
+<p align="center">
+  <b>Architecting reliable, full-lifecycle software solutions from edge to cloud.</b><br>
+  Focused on bridging <b>Computer Vision, Desktop Systems, and Modern Web Architectures</b>.
+</p>
 
-I enjoy taking an idea from a rough concept and turning it into a **usable, maintainable, real-world product** — from application architecture and user interfaces to data processing, automation, reporting, and web integration.
-
----
-
-## 🧑‍💻 About Me
-
-* 🐍 Python is my primary language
-* 👁️ Interested in **Computer Vision & Image/Video Processing**
-* 🤖 Currently deepening my knowledge of **AI & Machine Learning**
-* 🖥️ Experienced with **desktop application development**
-* 🌐 Exploring modern **Web Development**
-* ⚙️ Interested in **Embedded Systems & Automotive Electronics**
-* 🧩 Improving my knowledge of **Algorithms, Data Structures & Software Engineering**
-* 🚀 I enjoy building software that has a real purpose and real users
+</div>
 
 ---
 
-# 🚀 What I'm Working On
+### 🚀 Executive Summary
 
-## 🏭 SPERLUS / VideoMetry
+I am a Software Developer with a pragmatic engineering mindset. I specialize in transforming complex real-world requirements into maintainable, scalable, and production-ready applications. 
 
-One of my main software projects is **SPERLUS**, a professional platform built around video-based sewer inspection and infrastructure analysis.
-
-The project started as a desktop application and has evolved toward a larger software ecosystem combining **inspection software, video processing, reporting, structured data management, and a web platform**.
-
-### 🔍 What it includes
-
-🎥 Video-based inspection
-👁️ Image & video processing
-📊 Inspection data management
-🗂️ Project & manhole management
-📄 Automated PDF reports
-🌐 Web-based project access
-👥 User accounts & role-based permissions
-🔐 Access control & security concepts
-💾 Structured media & report management
-🖥️ Professional desktop interface
-
-### 🛠️ Technologies
-
-`Python` · `PySide6` · `Qt6` · `OpenCV` · `SQLite` · `QtMultimedia` · `QtWebEngine` · `Jinja2`
-
-### 🌐 Web Platform
-
-`Next.js` · `TypeScript` · `Tailwind CSS` · `Prisma`
-
-> **From collecting inspection data to processing, managing and presenting it — SPERLUS is being built as an integrated workflow rather than just another application.**
+My primary technical focus revolves around **high-performance desktop platforms (PySide/Qt, OpenCV)**, expanding into **modern full-stack web integration (Next.js, TypeScript)**, with a deep-seated interest in **Embedded Systems and Automotive Electronics (ECU/CAN Bus)**.
 
 ---
 
-# 🛠️ Tech Stack
+### 🌟 Featured Engineering Project
 
-### 🐍 Programming Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge\&logo=c\&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-
----
-
-### 🖥️ Desktop Development
-
-![PySide6](https://img.shields.io/badge/PySide6-41CD52?style=for-the-badge\&logo=qt\&logoColor=white)
-![Qt6](https://img.shields.io/badge/Qt6-41CD52?style=for-the-badge\&logo=qt\&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge\&logo=opencv\&logoColor=white)
-![QtMultimedia](https://img.shields.io/badge/QtMultimedia-41CD52?style=for-the-badge\&logo=qt\&logoColor=white)
-![QtWebEngine](https://img.shields.io/badge/QtWebEngine-41CD52?style=for-the-badge\&logo=qt\&logoColor=white)
-![Jinja2](https://img.shields.io/badge/Jinja2-B41717?style=for-the-badge\&logo=jinja\&logoColor=white)
-
----
-
-### 🌐 Web Development
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge\&logo=prisma\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+<table>
+  <tr>
+    <td width="65%">
+      <h3>🏭 SPERLUS / VideoMetry</h3>
+      <p><i>An industrial-grade platform designed for video-based infrastructure and pipeline inspection.</i></p>
+      <p>SPERLUS bridges the gap between hardware video capture and enterprise data management. It streamlines the inspection workflow into a unified ecosystem—combining real-time video processing, automated reporting, and secure cloud synchronization.</p>
+      <ul>
+        <li><b>Video Processing:</b> Frame-accurate visual inspection and defect identification.</li>
+        <li><b>Automated Reporting:</b> Dynamic PDF generation pipeline via template engines.</li>
+        <li><b>Hybrid Architecture:</b> Robust offline-first desktop client integrated with a modern cloud web platform for centralized project audits and role-based access control (RBAC).</li>
+      </ul>
+      <p>
+        <b>Core Stack:</b> 
+        <code>Python</code> · <code>PySide6 (Qt6)</code> · <code>OpenCV</code> · <code>SQLite</code> · <code>Next.js</code> · <code>TypeScript</code> · <code>Prisma</code> · <code>TailwindCSS</code>
+      </p>
+    </td>
+    <td width="35%" align="center">
+      <img src="https://via.placeholder.com/400x260?text=SPERLUS+Inspection+Suite" alt="SPERLUS Preview" width="100%" />
+      <br>
+      <sub><i>Industrial Video Inspection Ecosystem</i></sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🗄️ Data & Tools
+### 🛠️ Technical Arsenal
 
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge\&logo=sqlite\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge\&logo=windows\&logoColor=white)
+<div align="center">
 
----
+| Domain | Technologies & Tools |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| **Desktop & Vision** | ![Qt](https://img.shields.io/badge/-PySide6%20%2F%20Qt6-41CD52?style=flat-square&logo=qt&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![Multimedia](https://img.shields.io/badge/-QtMultimedia-232F3E?style=flat-square) ![Jinja2](https://img.shields.io/badge/-Jinja2-B41717?style=flat-square&logo=jinja&logoColor=white) |
+| **Web & Cloud** | ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) |
+| **DevOps & Tools** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
 
-# 🧠 Areas I'm Exploring
-
-### 🤖 Artificial Intelligence
-
-I'm currently building a stronger foundation in:
-
-* Machine Learning
-* Artificial Intelligence
-* Neural Networks
-* Computer Vision
-* AI-assisted software development
-
-I'm particularly interested in applying AI to **practical engineering problems**, rather than treating AI as a purely theoretical field.
+</div>
 
 ---
 
-### 👁️ Computer Vision
-
-One of the areas I'm most interested in is using computers to understand and process visual information.
-
-My experience and interests include:
-
-* 🎥 Video processing
-* 🖼️ Image processing
-* 🔍 Defect detection
-* 📐 Visual measurement
-* 📊 Extracting useful information from inspection footage
-
-This is also one of the reasons SPERLUS / VideoMetry became an important project in my development journey.
-
----
-
-### ⚙️ Embedded & Automotive Systems
-
-Another technical direction I'm interested in is the intersection of **software and automotive electronics**.
-
-Areas I'm exploring include:
-
-🚗 ECU / TCU systems
-⚡ Automotive electronics
-🔌 CAN Bus
-🧠 Embedded programming
-🐍 Python for automotive tools
-⚙️ C / C++ for embedded systems
-🔋 Inverters & control systems
-
-My goal is to gradually connect my software development background with lower-level engineering and automotive systems.
-
----
-
-# 📚 Currently Learning
-
-I'm currently investing time in strengthening my fundamentals as well as expanding into new areas.
-
-### 🎓 Computer Science
-
-🧩 Data Structures
-⚡ Algorithms
-💻 Operating Systems
-🏗️ Computer Architecture
-🧠 Artificial Intelligence
-📐 Computer & Discrete Mathematics
-🧮 Theory of Computation
-
-### 💻 Software Development
-
-🏗️ Software Architecture
-🌐 Modern Web Development
-🔐 Authentication & Authorization
-🗄️ Database Design
-🧪 Testing & Reliability
-🚀 Deployment & Production Systems
-
----
-
-# 🔨 How I Like to Build
-
-I care about more than simply making something "work".
-
-I try to build software that is:
+### 🔬 Engineering Focus & R&D
 
 ```text
-🧩 Well-structured
-🔧 Maintainable
-🔐 Secure
-📈 Scalable
-⚡ Practical
-👥 User-focused
-```
-
-My approach is generally:
-
-**Understand → Design → Build → Test → Improve**
-
-Because a project isn't really finished when the code runs.
-
-It's finished when the software **solves the problem reliably.**
-
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ParsaFathii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParsaFathii&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=ParsaFathii&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-# 🎯 What I'm Building Toward
-
-I'm interested in the intersection of:
-
-### `Software Engineering` × `AI` × `Computer Vision` × `Embedded Systems`
-
-My long-term direction is to become a developer who can work across different layers of a system — from **high-level applications and intelligent software to lower-level engineering and embedded systems**.
-
-I want to keep building, keep learning, and gradually take on more complex engineering problems.
-
----
-
-# 🌎 Beyond Code
-
-For me, programming isn't only about writing code.
-
-I enjoy:
-
-🧠 Learning how complex systems work
-🔧 Improving existing systems
-💡 Turning ideas into products
-📚 Continuously learning new technologies
-🚗 Exploring automotive technology
-🤖 Experimenting with AI
-🌍 Working toward an international software career
-
----
-
-# 🤝 Let's Connect
-
-I'm always open to interesting conversations and opportunities around:
-
-💻 Software Development
-🐍 Python
-🤖 AI & Machine Learning
-👁️ Computer Vision
-🌐 Web Applications
-⚙️ Embedded & Automotive Systems
-🚀 Real-world software projects
-🌍 International collaboration
-
-Feel free to explore my repositories and follow my journey.
-
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-**Build something useful.
-Learn something new.
-Make it better. 🚀**
-
-</div>
+  [ Applied AI & Vision ] ───► Computer Vision Pipelines · Defect Detection · Visual Metric Analysis
+  [ System Architecture ] ───► Event-Driven Desktop Design · Modular Micro-frontends · Secure RBAC
+  [ Embedded & Automotive] ──► CAN Bus Communication · Low-Level Firmware (C/C++) · ECU Integration
